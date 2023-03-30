@@ -1,0 +1,15 @@
+:root {
+    --hero-image: url(../images/hero.jpg);
+
+    --light-accent-colour: #e60;
+    --light-accent-hint-colour: #f501;
+    --light-link-colour: #360;
+    --light-button-colour: #360;
+}
+
+.hero {
+    min-height: 50vh;
+}
+
+
+
